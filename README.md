@@ -10,7 +10,7 @@
 - 📫 How to reach me: **mohdshivlu1245@gmail.com**
 - 🌐 All of my projects are available here: [GitHub Profile](https://github.com/your-github-username)
 
----
+
 
 ## 🌐 Connect with me:
 
