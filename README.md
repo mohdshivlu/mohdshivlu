@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on **Video Streaming, Electron Apps, and Full Stack Web Development**
 - 🌱 Currently exploring **Advanced WebRTC, WebSocket, and Real-time Application Development**
 - 📫 How to reach me: **mohdshivlu1245@gmail.com**
-- 🌐 All of my projects are available here: [GitHub Profile](https://github.com/your-github-username)
+- 🌐 All of my projects are available here: [GitHub Profile](https://github.com/mohdshivlu)
+
 
 
 
