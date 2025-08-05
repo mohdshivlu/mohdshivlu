@@ -15,9 +15,13 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/harshal09628371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshal09628371" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hpatil8806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hpatil8806" height="30" width="40" /></a>
-<a href="https://instagram.com/harshal___rajput_hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal___rajput_hr" height="30" width="40" /></a>
+<a href="https://x.com/MohdShivlu" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohdShivlu" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/mohdshivlu" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdshivlu" height="30" width="40" />
+</a>
+
 </p>
 
 
